@@ -1,0 +1,15 @@
+{
+  "name": "WaifuPaste-ng",
+  "version": "0.0.1",
+  "description": "WaifuPaste re-imagined in JavaScript",
+  "main": "index.js",
+  "author": "AndroidKitKat",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "^4.17.1",
+    "formidable": "^1.2.2",
+    "mime-types": "^2.1.27",
+    "mongodb": "^3.6.0",
+    "sqlite3": "^5.0.0"
+  }
+}
